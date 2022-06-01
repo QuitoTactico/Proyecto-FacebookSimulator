@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ColeccionSolicitudes
+comment0.text=\r\n\ En\ esta\ clase\ se\ maneja\ la\ colecci\u00F3n\ de\ todas\ las\ solicitudes\ de\r\n\ amistad\ que\ hay\ entre\ los\ usuarios\ inscritos\ en\ la\ aplicaci\u00F3n.\r\n\ \r\n\ @author\ Esteban\ Vergara\ Giraldo\ \ \r\n\ @author\ John\ Alejandro\ Gonzales\r\n\ @author\ Andres\ Julian\ Gil\ Nagles\r\n\ @version\ 4\r\n
+comment1.params=
+comment1.target=ColeccionSolicitudes()
+comment1.text=\r\n\ Constructor,\r\n\ Se\ asigna\ memoria\ al\ nuevo\ ArrayList\ y\ se\ recuperan\ las\ solicitudes\ antiguas.\r\n
+comment2.params=solicitud
+comment2.target=boolean\ agregarSolicitud(Solicitud)
+comment2.text=\r\n\ Se\ agrega\ una\ solicitud.\ Se\ presume\ que\ ya\ se\ ha\ chequeado\ y\ no\ existe\r\n\ @param\ solicitud\ Referencia\ a\ la\ nueva\ solicitud\ que\ se\ trata\ de\ agregar\r\n\ @return\ true\ si\ se\ pudo\ agregar\ la\ solicitud,\ false\ de\ lo\ contrario\r\n
+comment3.params=usuario1\ usuario2
+comment3.target=boolean\ buscarSolicitud(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Se\ busca\ si\ la\ solicitud\ ya\ existe\ en\ la\ colecci\u00F3n\ o\ no.\r\n\ @param\ usuario1\ Usuario\ que\ quiere\ ver\ si\ tiene\ solicitud\ con\ usuario2\r\n\ @param\ usuario2\ El\ usuario\ objetivo\ del\ usuario1\r\n\ @return\ Si\ la\ solicitud\ existe,\ se\ retorna\ true,\ de\ lo\ contrario\r\n\ se\ retorna\ false\r\n
+comment4.params=usuario\ amistades
+comment4.target=void\ imprimirSolicitudes(java.lang.String,\ java.util.ArrayList)
+comment4.text=\r\n\ Para\ imprimir\ los\ usernames\ de\ los\ que\ le\ han\ enviado\ una\ solicitud\r\n\ de\ amistad\ a\ un\ usuario\ en\ espec\u00EDfico.\r\n\ @param\ usuario\ El\ usuario\ objetivo\ a\ quien\ le\ han\ mandado\ las\ solicitudes\r\n\ @param\ amistades\ Un\ Arraylist\ con\ los\ usernames\ de\ los\ que\ ya\ son\ sus\ amigos\r\n
+numComments=5

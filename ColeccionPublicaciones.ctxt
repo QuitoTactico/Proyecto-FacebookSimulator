@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ColeccionPublicaciones
+comment0.text=\r\n\ En\ esta\ clase\ se\ maneja\ la\ colecci\u00F3n\ de\ las\ publicaciones\r\n\ que\ han\ hecho\ todos\ los\ usuarios.\r\n\ \r\n\ @author\ Esteban\ Vergara\ Giraldo\r\n\ @author\ John\ Alejandro\ Gonzales\r\n\ @author\ Andres\ Julian\ Gil\ Nagles\r\n\ @version\ 7\r\n
+comment1.params=
+comment1.target=ColeccionPublicaciones()
+comment1.text=\r\n\ Constructor,\r\n\ Se\ asigna\ memoria\ al\ nuevo\ ArrayList\ y\ se\ recuperan\ las\ publicaciones\ antiguas.\r\n
+comment2.params=p
+comment2.target=boolean\ agregarPublicacion(Publicacion)
+comment2.text=\r\n\ Se\ agrega\ una\ publicaci\u00F3n.\ Aunque\ sean\ una\ nueva\ publicaci\u00F3n,\ puede\ \r\n\ tener\ el\ mismo\ contenido\ que\ alguna\ anterior\r\n\ @param\ p\ Referencia\ a\ la\ nueva\ publicaci\u00F3n\ que\ se\ trata\ de\ agregar\r\n\ @return\ true\ si\ se\ pudo\ agregar\ la\ publicaci\u00F3n,\ false\ de\ lo\ contrario\r\n
+comment3.params=usuario
+comment3.target=java.util.ArrayList\ getPublicacionesDeUnUsuario(java.lang.String)
+comment3.text=\r\n\ Se\ buscan\ las\ publicaciones\ del\ usuario\ ingresado\ (recientes\ primero)\r\n\ @param\ usuario\ Usuario\ al\ que\ se\ le\ buscan\ las\ publicaciones\r\n\ @return\ Retorna\ un\ ArrayList\ con\ todas\ las\ publicaciones\ que\ ha\ hecho\r\n\ comenzando\ con\ las\ recientes,\ puede\ estar\ vac\u00EDo\ si\ no\ ha\ hecho\ una\ a\u00FAn.\r\n
+comment4.params=usuario
+comment4.target=void\ imprimirPublicaciones(java.lang.String)
+comment4.text=\r\n\ Imprime\ las\ publicaciones\ del\ usuario\ ingresado\ (recientes\ primero).\r\n\ Imprime\ el\ ArrayList\ de\ todas\ las\ publicaciones\ que\ ha\ hecho\ comenzando\r\n\ con\ las\ recientes,\ es\ capaz\ de\ informar\ si\ no\ ha\ publicado\ nada\ a\u00FAn.\r\n\ @param\ usuario\ Usuario\ al\ que\ se\ le\ imprimir\u00E1n\ las\ publicaciones\r\n
+numComments=5
