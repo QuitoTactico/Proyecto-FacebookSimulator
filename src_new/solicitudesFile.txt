@@ -1,0 +1,9 @@
+Quito,6
+6,John
+6,Amongus
+1,2
+6,2
+2,Quito
+Quito,Messi
+Quito,Helmuth
+laura,Quito

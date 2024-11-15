@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=EntrarAlSistema
-comment0.text=\r\n\ ACCESO\ R\u00C1PIDO\ PARA\ NO\ EXPERIMENTADOS\r\n\ \r\n\ Hay\ demasiados\ metodos\ en\ Principal,\ una\ persona\ no\ muy\ experimentada\r\n\ puede\ no\ saber\ qu\u00E9\ hacer\ o\ por\ d\u00F3nde\ empezar.\r\n\ Aqu\u00ED\ hay\ s\u00F3lo\ un\ m\u00E9todo\r\n\ \r\n|Si\ eres\ de\ esas\ personas\ y\ usas\ BlueJ,\ dale\ click\ derecho\ al\ recuadro\ por\ \ |\r\n|donde\ viniste,\ se\ abrir\u00E1\ una\ pesta\u00F1a,\ clikea\ en\ "void\ main(String[]\ args)".|\r\n\ \r\n\ Realmente\ no\ era\ necesaria\ esta\ clase,\ pero\ hasta\ yo\ me\ perd\u00ED\ al\ inicio\r\n\ Hay\ un\ manual\ en\ pdf\ m\u00E1s\ detallado\ que\ fu\u00E9\ anexado\ a\ la\ entrega.\r\n\ \r\n\ @author\ Esteban\ Vergara\ Giraldo\r\n\ @author\ John\ Alejandro\ Gonzales\r\n\ @author\ Andres\ Julian\ Gil\ Nagles\r\n\ @version\ 6\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Activa\ autom\u00E1ticamente\ el\ m\u00E9todo\ main\ de\ Principal,\ el\ importante\r\n
-numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Usuario
+comment0.text=\r\n\ En\ esta\ clase\ se\ crean\ y\ manejan\ los\ datos\ referentes\ a\ un\ usuario.\r\n\ \r\n\ @author\ Esteban\ Vergara\ Giraldo\r\n\ @author\ John\ Alejandro\ Gonzales\r\n\ @author\ Andres\ Julian\ Gil\ Nagles\r\n\ @version\ 2\r\n
+comment1.params=usuario\ clave\ nombreCompleto
+comment1.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ Se\ crea\ un\ usuario\ con\ las\ especificaciones\ ingresadas.\r\n\ @param\ usuario\ El\ nombre\ de\ usuario\ que\ se\ prefiere\r\n\ @param\ clave\ La\ contrase\u00F1a\ que\ se\ quiere\r\n\ @param\ nombreCompleto\ El\ nombre\ de\ la\ persona\ que\ crea\ el\ usuario\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUsuario()
+comment2.text=\r\n\ Se\ retorna\ el\ usuario\ que\ quiere\ saber\ su\ nombre\ de\ usuario\r\n\ @return\ El\ nombre\ de\ usuario\ solicitado\r\n
+comment3.params=
+comment3.target=java.lang.String\ getClave()
+comment3.text=\r\n\ Se\ retorna\ la\ clave\ del\ usuario\r\n\ @return\ La\ clave\ solicitada\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombreCompleto()
+comment4.text=\r\n\ Se\ retorna\ el\ nombre\ completo\ real\ del\ usuario\r\n\ @return\ El\ nombre\ completo\ solicitado\r\n
+numComments=5

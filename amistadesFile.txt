@@ -1,8 +1,0 @@
-Quito,John
-Amongus,Quito
-6,Quito
-John,6
-2,1
-Messi,Quito
-Helmuth,Quito
-Quito,laura

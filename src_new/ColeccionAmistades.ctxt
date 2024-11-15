@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ColeccionAmistades
+comment0.text=\r\n\ En\ esta\ clase\ se\ maneja\ la\ colecci\u00F3n\ de\ todas\ las\ relaciones\ de\r\n\ amistad\ que\ hay\ entre\ los\ usuarios\ inscritos\ en\ la\ aplicaci\u00F3n.\r\n\ \r\n\ @author\ Esteban\ Vergara\ Giraldo\ \ \r\n\ @author\ John\ Alejandro\ Gonzales\r\n\ @author\ Andres\ Julian\ Gil\ Nagles\r\n\ @version\ 7\r\n
+comment1.params=
+comment1.target=ColeccionAmistades()
+comment1.text=\r\n\ Constructor,\r\n\ Se\ asigna\ memoria\ al\ nuevo\ ArrayList\ y\ se\ recuperan\ las\ amistades\ antiguas.\r\n
+comment2.params=amistad
+comment2.target=boolean\ agregarAmistad(Amistad)
+comment2.text=\r\n\ Se\ agrega\ una\ amistad.\ Se\ presume\ que\ ya\ se\ ha\ chequeado\ y\ no\ existe\r\n\ @param\ amistad\ Referencia\ a\ la\ nueva\ amistad\ que\ se\ trata\ de\ agregar\r\n\ @return\ true\ si\ se\ pudo\ agregar\ la\ amistad,\ false\ de\ lo\ contrario\r\n
+comment3.params=usuario1\ usuario2
+comment3.target=boolean\ buscarAmistad(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Se\ busca\ si\ la\ amistad\ ya\ existe\ en\ la\ colecci\u00F3n\ o\ no.\r\n\ @param\ usuario1\ Usuario\ que\ quiere\ ver\ si\ tiene\ amistad\ con\ usuario2\r\n\ @param\ usuario2\ El\ usuario\ objetivo\ del\ usuario1\r\n\ @return\ Si\ la\ amistad\ existe,\ se\ retorna\ true,\ de\ lo\ contrario\r\n\ se\ retorna\ false\r\n
+comment4.params=usuario
+comment4.target=java.util.ArrayList\ getAmistadesDeUnUsuario(java.lang.String)
+comment4.text=\r\n\ Se\ buscan\ todas\ las\ amistades\ de\ un\ usuario\r\n\ @param\ usuario\ El\ usuario\ objetivo\r\n\ @return\ Un\ arraylist\ con\ los\ nombres\ de\ sus\ amigos\r\n
+comment5.params=usuario
+comment5.target=void\ imprimirAmistades(java.lang.String)
+comment5.text=\r\n\ Para\ imprimir\ los\ usernames\ de\ los\ amigos\ de\ un\ usuario.\r\n\ @param\ usuario\ El\ usuario\ objetivo\r\n
+numComments=6
